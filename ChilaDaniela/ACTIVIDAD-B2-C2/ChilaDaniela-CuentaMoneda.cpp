@@ -38,7 +38,7 @@ cout<<"Cantidad total en dinero de mpnedas de 0.25cc : "<<CD_a2<<endl;
 cout<<"//=======Nombre del programa: Cuenta Moneda "<<endl;
 cout<<"//====Archivo: ChilaDaniela-CuentaMoneda.cpp "<<endl;
 cout<<"//====Autor: Chila Daniela "<<endl;
-cout<<"//====Fecha de creacion: 03-05-2022 "<<endl;
+cout<<"//====Fecha de creacion: 03-05-2022 " <<endl;
 cout<<"//====Fecha de ultila actualizacion: 19-05-2022 "<<endl;
 
 return 0;
