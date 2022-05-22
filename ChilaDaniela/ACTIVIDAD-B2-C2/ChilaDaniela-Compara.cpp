@@ -1,7 +1,5 @@
 //=======Nombre del programa: Compara de dos numeros
 //====Archivo: ChilaDaniela-Compara.cpp
-//====Autor: Chila Daniela
-//====Fecha de elaboracion: 03-05-2022
 //====Fecha de ultima actualizacion: 19-05-2022
 #include<iostream>
 using namespace std;
@@ -26,8 +24,8 @@ cout<<"//====Fecha de ultima actializacion: 19-05-2022"<<endl;
 
 	cout<<"El valor de CD_A=" <<CD_A<<" es menor a CD_B="<<CD_B<<endl;
 		}else{
-	cout<<"El valor de CD_B="<<CD_B<<" es menor a CD_A="<<CD_A<<endl;
+	cout<<"El valor de CD_B=" <<CD_B<<" es menor a CD_A="<<CD_A<<endl;
 		}
 		}
 	return 0;
-	}
+}
