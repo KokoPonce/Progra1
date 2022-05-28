@@ -1,11 +1,3 @@
-//================================================
-//==> Nombre del programa: Compara
-//==> Archivo : Compara.cpp
-//==>Autor: Niurka Ramirez Castro
-//==>Fecha de elaboración: 01-05-2022
-//==>Fecha ultima actualización: 20-05-2022
-//=================================================
-
 #include<iostream>
 using namespace std;
 
