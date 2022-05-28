@@ -11,6 +11,7 @@ using namespace std;
 #include"ChilaDaniela.h"
 #include"EF_FUNCIONES.h"
 #include"AC_FUNCIONES.h"
+#include"NiurkaR.h"
 
 int main()
 {
@@ -41,6 +42,7 @@ int main()
 					break;
 				case 4:
 					cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE RAMIREZ NIURKA ";
+					RN_Menu();
 					break;
 				case 5:
                     cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE SEVILLA GABRIELA ";
