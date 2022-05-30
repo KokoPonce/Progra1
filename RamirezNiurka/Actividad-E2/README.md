@@ -4,13 +4,14 @@ Autor: Niurka Yudibel Ramirez Castro
 
 Correo: niurka.ramirez.castro@utelvt.edu.ec
 
-//PROGRAMAS//
+                                                                          //PROGRAMAS//
 1.	Puntodeventa.cpp
 2.	Cuentamoneda.cpp
 3.	Sumanumeros.cpp
 4.	Edad.cpp
 5.	Compara.cpp
-//DESCRIPCION//
+
+                                                                         //DESCRIPCION//
 1.	Punto de Venta: Este programa está diseñado para calcular el iva y el descuento de una compra. A continuación los pasos para ejecutarlo:
 1) Ingrese la cantidad de productos que comprara. 
 2) Ingrese el valor de cada uno de los productos
@@ -41,7 +42,7 @@ A continuación los pasos para ejecutarlo:
 3) El programa designará cual es el mayor o si son iguales.
 4) Finalmente mostrará el resultado por pantalla.
 
-// COMANDOS PARA DESCARGAR Y EJECUTAR PROGRAMAS //
+                                                      // COMANDOS PARA DESCARGAR Y EJECUTAR PROGRAMAS //
 
 1) Mediante este comando podrá descargar la carpeta con los archivos "git clone https://github.com/'USUARIO'/'NOMBRE DE REPOSITORIO.git'"
 2) Con este comando podrá acceder a la carpeta contenedora de los archivos "cd programa"
