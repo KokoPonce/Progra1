@@ -4,16 +4,22 @@
 
 #include<iostream>
 #include<stdlib.h>
+#include <locale.h>
+#include <conio.h>
+#include <stdlib.h>
 using namespace std;
 #include"ChilaDaniela.h"
+#include"EF_FUNCIONES.h"
+#include"AC_FUNCIONES.h"
+#include"NiurkaR.h"
 
 int main()
 {
-   
+   setlocale(LC_ALL, "");
 	int op,flag;
 
 	do{
-			system("clear");
+			system("cls");
 			cout<<"**************PROGRAMAS**************"<<endl<<endl;
 			cout<<"1.- Trabajos de Canizares Jesus. \n";
 			cout<<"2.- Trabajos de Chila Daniela. \n";
@@ -32,13 +38,16 @@ int main()
 					break;
 				case 3:
 					cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE GALARZA ADA ";
+					AC_Menu();
 					break;
 				case 4:
 					cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE RAMIREZ NIURKA ";
+					RN_Menu();
 					break;
 				case 5:
-                                        cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE SEVILLA GABRIELA ";
-                                        break;
+                    cout<<"\n AQUI PUEDO REVISAR LOS TRABAJO DE SEVILLA GABRIELA ";
+                    EF_Menu();
+                    break;
 				
 				}
 				if(op!=0 && op>5){
